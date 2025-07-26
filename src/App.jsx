@@ -7,7 +7,7 @@ function App() {
     <>
       {!loaded && <p>Loading PDF...</p>}
       <iframe
-        src="/മലബാർ ജില്ലകളുടെ വിഭജനം.pdf"
+        src="/Malabar jillakalude vibhajanam.pdf"
         width="100%"
         height="100%"
         title="PDF"
